@@ -2,6 +2,7 @@
 transient simulation
 by Yao Xiao
 xiaoyaodashe@outlook.com
+yao.xiao.1@stonybrook.edu
 09/18/2024
 '''
 # model from p135 in book 'POWER SYSTEM DYNAMIC AND STABILITY'
